@@ -27,3 +27,4 @@ Choose the suitable version of OpenJDK and install it using the apt repository.
 ## Verify Java Installation
 Now, verify if Java is correctly installed on Ubuntu or not. Check the currently installed Java version with the following command:
 <a herf="https://lh3.googleusercontent.com/UDBFf6DSS2Mt7sxVFviOlOEmb9-WpL2lKU3in9_dYvvHeckz8ybwDyTedBo9UUq7766_rHrv63pM9tn6hAZtK5kXREeGBD_An1EgANRbCo1Ct1latDXldLZfKimUrynMA0Q0B3m5WhGjUl76QUardQ">click here</a>
+This shows how to install java development kit version 17 on ubuntu 22.04 virtual machine.
